@@ -1,4 +1,4 @@
-FROM phusion/baseimage
+FROM phusion/baseimage:0.9.16
 MAINTAINER Milo Minderbinder <minderbinder.enterprises@gmail.com>
 
 
